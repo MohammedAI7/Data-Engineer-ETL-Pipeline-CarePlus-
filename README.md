@@ -98,5 +98,4 @@ To build a **scalable cloud-based data pipeline** for CarePlus that:
 
 ---
 
-## 📁 Folder Structure
 
